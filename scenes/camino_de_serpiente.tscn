@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://dla2iocy1kucq"]
+
+[ext_resource type="Texture2D" uid="uid://ckrshlgfwxb4n" path="res://Sprites/Serpent way.png" id="1_thvey"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_q7ujo"]
+size = Vector2(88.5, 14)
+
+[node name="CaminoDeSerpiente" type="RigidBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_thvey")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-0.75, 8)
+shape = SubResource("RectangleShape2D_q7ujo")

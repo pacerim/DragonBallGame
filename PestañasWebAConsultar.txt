@@ -1,0 +1,39 @@
+Páginas para la realización del proyecto Profesión:
+- 20 Proyects: 
+https://www.youtube.com/watch?v=jTJvyKZDFsY 
+
+- Video Ejemplo escena Godot Dragon Ball
+https://www.youtube.com/watch?v=nkTIbmutmu0&t=1s
+
+- Documentación Godot:
+https://docs.godotengine.org/es/4.x/getting_started/first_2d_game/07.finishing-up.html
+
+https://docs.godotengine.org/en/stable/tutorials/2d/index.html#rendering
+
+https://docs.godotengine.org/en/stable/tutorials/physics/using_area_2d.html
+
+- Vídeo juego de peleas perfecto en Godot:
+https://www.youtube.com/watch?v=XrR5jibBVxo
+y su código en GitHub:
+https://github.com/KindoSaur/-OLD-Tournament-Fighter/tree/main/Episode%201%20-%20Very%20basic%20fighter
+
+- 2D Character coding Godot:
+https://www.youtube.com/watch?v=PPd54cbmH7Q
+
+- Video YouTube bueno:
+https://www.youtube.com/watch?v=1JZOnCZuAv8
+
+- Proyecto bueno de peleas en c :
+https://github.com/eddy-dunton/miorga-fight/blob/master/src/MiorgaFight/Action/Attack.cs
+
+- Explicaciones videojuegos en Godot en español:
+https://www.youtube.com/watch?v=9bP4l6qXOnA&t=4s
+
+- Explicaciones Godot:
+https://www.youtube.com/@RoyasGodot/videos
+
+- Jump and run in godot:
+´https://www.youtube.com/watch?v=qGBfuHp0wWA
+
+- Life bar en Godot:
+https://www.youtube.com/watch?v=4_5lmQM0QaU

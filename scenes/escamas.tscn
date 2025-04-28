@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cma0nv8lr3p1e"]
+
+[ext_resource type="Texture2D" uid="uid://bxawrtqtckxwo" path="res://Sprites/Serpent-Strips.png" id="1_aekwj"]
+
+[node name="Escamas" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_aekwj")
