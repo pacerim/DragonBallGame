@@ -78,4 +78,12 @@ Para editar el juego:
 
 ---
 
-¡Espero que disfrutes explorando y jugando a este proyecto de **Dragon Ball Fighting Game**! 🔥🕹️
+## Vídeo resumen del videojuego
+
+![Video resumen del videojuego - Dragon Ball Game](/DragonBallGame-Video.gif)
+
+---
+
+# ¡Espero que disfrutes explorando y jugando a este proyecto de **Dragon Ball Fighting Game**! 🔥🕹️
+
+
